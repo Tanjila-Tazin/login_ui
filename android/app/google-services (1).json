@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335978932198",
+    "project_id": "login-ui-be314",
+    "storage_bucket": "login-ui-be314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335978932198:android:276028873e2a0938c11827",
+        "android_client_info": {
+          "package_name": "com.example.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335978932198-00lemjffa3ihfbn9hpgvvt8ettm4r3ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb1hfNsmCQyVzYf37kSNNAY1idJx8BREI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335978932198-00lemjffa3ihfbn9hpgvvt8ettm4r3ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
